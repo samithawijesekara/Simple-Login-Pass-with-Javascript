@@ -31,3 +31,5 @@ Onece you type incorrect User ID & Password then click the login button you get 
 **If you miss the these three attempts form input fields & button automatically disable.**
 
 <img src="img/screenshot_e.JPG">
+
+<img src="img/screenshot_f.JPG">
