@@ -1,0 +1,41 @@
+body {
+    background-color: yellow;
+}
+
+.wrap {
+    margin: 80px;
+}
+
+.form {
+    max-width: 380px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 15px 40px 50px;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-bottom: 40px;
+    text-align: center;
+    justify-content: center;
+    color: crimson;
+}
+
+input {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(245, 237, 168);
+    border: none;
+    width: 100%;
+    outline: none !important;
+}
+
+input[type="submit"] {
+    margin-bottom: 30px;
+}
+
+.txt {
+    margin-top: 5px;
+    font-size: 14px;
+}
