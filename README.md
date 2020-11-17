@@ -28,7 +28,7 @@ Onece you type incorrect User ID & Password then click the login button you get 
 
 <img src="img/screenshot_b.JPG">
 
-**If you miss the these three attempts form input fields & button automatically disable.**
+**If you miss the these three attempts, form input fields & button automatically disable.**
 
 <img src="img/screenshot_e.JPG">
 
